@@ -44,7 +44,8 @@
 - [源码专题——Spring IOC 容器初始化解析（中）](https://mp.weixin.qq.com/s?__biz=MzA3NTY0OTI3MA==&mid=2247484436&idx=1&sn=2988d3a328cf654b21be56bdcbfd120e&chksm=9f6c1d8da81b949b547eedca1321f253333c056f84f815fb9b30beea0a339aea882b759a70bb&token=1620802891&lang=zh_CN#rd)
 - [源码专题——Spring IOC 容器初始化解析（下）](https://mp.weixin.qq.com/s?__biz=MzA3NTY0OTI3MA==&mid=2247484456&idx=1&sn=24b405e43e9fcfd97b31e085066fdfe7&chksm=9f6c1db1a81b94a72bdadb506fd0ea50045001c0af8ce68497b482836d149806e5e1bd127b1a&token=1620802891&lang=zh_CN#rd)
 - [浅析Spring三级缓存解决循环依赖](https://mp.weixin.qq.com/s?__biz=MzA3NTY0OTI3MA==&mid=2247484504&idx=1&sn=3cd12dab7135b4a58f3be309646e913d&chksm=9f6c1dc1a81b94d7a7e8728a713723983c4b6e47ecc57da5a02d8d915ae44b61424ecc56221c&token=1620802891&lang=zh_CN#rd)
-
+- [每天五分钟，学透Spring《一、Spring中是如何获取Bean》](https://mp.weixin.qq.com/s?__biz=MzA3NTY0OTI3MA==&mid=2247485332&idx=1&sn=10eef86a80eefc9e9eee69e0956e162c&chksm=9f6c1e0da81b971becc09efbf79ddf709d8dc5de831ce5c9a29d72a29e585bca5d8a248d8307&token=1036863766&lang=zh_CN#rd)
+    
 #### JVM专题
 
 - [JVM专题——类加载和双亲委派机制深度剖析](https://mp.weixin.qq.com/s?__biz=MzA3NTY0OTI3MA==&mid=2247484527&idx=1&sn=5fc0de12548152cf7458aafa84dd38bc&chksm=9f6c1df6a81b94e0eff06e600d70c90a6a6eb9c970378434d91ba2465b7f803e49f26d1b4e17&token=1620802891&lang=zh_CN#rd)
